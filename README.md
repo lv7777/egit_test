@@ -1,4 +1,4 @@
-# Rhino: JavaScript in Java
+# HelloWorld: egit in eclipse
 
 ![Rhino](https://developer.mozilla.org/@api/deki/files/832/=Rhino.jpg)
 
